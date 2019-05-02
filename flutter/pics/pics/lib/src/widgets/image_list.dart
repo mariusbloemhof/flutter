@@ -20,7 +20,7 @@ class ImageList extends StatelessWidget {
   Widget buildImage(ImageModel image) {
     return Container(
       padding: EdgeInsets.all(20),
-      margin: EdgeInsets.all(20),
+      margin: EdgeInsets.all(10),
       decoration: BoxDecoration(
           color: Colors.white, border: Border.all(color: Colors.grey)),
       child: Column(
