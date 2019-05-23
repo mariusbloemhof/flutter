@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455770975248",
+    "firebase_url": "https://shadow-guards.firebaseio.com",
+    "project_id": "shadow-guards",
+    "storage_bucket": "shadow-guards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455770975248:android:d3b31b87d6eddebf",
+        "android_client_info": {
+          "package_name": "com.shadow.guards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455770975248-lc52sc8ksnjgqogut7ppi9drimuk596r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyT-Lpx5hnwFuLzZGv9lMPypv2MA3R3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455770975248-lc52sc8ksnjgqogut7ppi9drimuk596r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
